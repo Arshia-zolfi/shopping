@@ -1,6 +1,5 @@
 yellow
 blue
-red
 purple
 gray
 green
