@@ -2,5 +2,4 @@ yellow
 blue
 red
 purple
-orange
 gray
