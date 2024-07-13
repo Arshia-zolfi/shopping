@@ -5,3 +5,4 @@ gray
 green
 dark
 white
+pink
